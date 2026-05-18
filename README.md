@@ -27,7 +27,7 @@ The aim of this data analysis was to examine patterns in the sales and profitabi
 * There was seasonality in the sales patterns
 
 ## What I Learned
-As a result of completing this project, I have learned how to work with Tableau to convert retail sales data into visualized dashboards. Also, I have practiced in analyzing relations between sales, profitability, discount, and consumers' behavior depending on product type and geographic location.
+As a result of completing this project, I have learned how to work with Tableau to convert retail sales data into visualized dashboards. Also, I have practiced in analyzing relations between sales, profitability, discount, and consumers behavior depending on product type and geographic location.
 
 It is possible to note that good results in sales do not guarantee high profitability. Having studied discount trends, I was able to understand how pricing strategy could affect business performance.
 
